@@ -1,0 +1,44 @@
+# PhpStorm project files
+.idea
+
+# NetBeans project files
+nbproject
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# composer.lock
+composer.lock
+
+# composer itself is not needed
+composer.phar
+
+# yii console command
+yii
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# local configurations
+config/console-local.php
+config/main-local.php
+config/params-local.php
+config/web-local.php
+
+# composer vendor dir
+/vendor
+
+# phpunit itself is not needed
+phpunit.phar
+
+# local phpunit config
+/phpunit.xml
+
+# tests
+tests/_output/*
+tests/_support/_generated
