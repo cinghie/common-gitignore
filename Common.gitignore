@@ -1,1 +1,11 @@
+# Ignore phpstorm project files
+.idea
 
+# Ignore netbeans project files
+nbproject
+
+# Ignore Mac DS_Store Files
+.DS_Store
+
+# Ignore windows thumbnail cache
+Thumbs.db
