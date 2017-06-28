@@ -1,1 +1,33 @@
+# PhpStorm project files
+.idea
 
+# NetBeans project files
+nbproject
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# wordpress root
+*.log
+wp-config.php
+/license.txt
+/readme.html
+
+# wp-content
+wp-content/advanced-cache.php
+wp-content/backup-db/*
+wp-content/backups/*
+wp-content/cache/*
+wp-content/plugins/*
+wp-content/upgrade/*
+wp-content/uploads/*
+wp-content/wp-cache-config.php
+
+# wp-theme
+wp-content/themes/index.php
+wp-content/themes/twentyfifteen/*
+wp-content/themes/twentyseventeen/*
+wp-content/themes/twentysixteen/*
