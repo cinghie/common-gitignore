@@ -1,4 +1,4 @@
-Common gitignore
+Common .gitignore
 -----------------
 
 A collection of common .gitignore for: 
