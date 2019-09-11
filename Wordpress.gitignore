@@ -10,24 +10,67 @@ Thumbs.db
 # Mac DS_Store Files
 .DS_Store
 
-# wordpress root
+# WP Root files
 *.log
-wp-config.php
-/license.txt
-/readme.html
+/index.php
+/wp-activate.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-config.php
+/wp-config-sample.php
+/wp-cron.php
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/xmlrpc.php
 
-# wp-content
-wp-content/advanced-cache.php
+/LICENSE
+/license.txt
+/licenza.html
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+# WP Content
+wp-content/ai1wm-backups/*
+wp-content/aiowps_backups/*
 wp-content/backup-db/*
 wp-content/backups/*
 wp-content/cache/*
-wp-content/plugins/*
+wp-content/languages/themes/twentyfifteen-it_IT.po
+wp-content/languages/themes/twentyseventeen-it_IT.po
+wp-content/languages/themes/twentysixteen-it_IT.po
+wp-content/mu-plugins/*
+wp-content/plugins/hello.php
+wp-content/themes/*
 wp-content/upgrade/*
 wp-content/uploads/*
+wp-content/wflogs/*
 wp-content/wp-cache-config.php
 
-# wp-theme
+# wWP Theme
 wp-content/themes/index.php
 wp-content/themes/twentyfifteen/*
 wp-content/themes/twentyseventeen/*
 wp-content/themes/twentysixteen/*
+
+!wp-content/ai1wm-backups/.htaccess
+!wp-content/ai1wm-backups/index.php
+!wp-content/ai1wm-backups/web.config
+!wp-content/aiowps_backups/.htaccess
+!wp-content/aiowps_backups/.htaccess.backup
+!wp-content/aiowps_backups/backup.wp-config.php
+!wp-content/aiowps_backups/index.html
+!wp-content/cache/.htaccess
+!wp-content/cache/index.html
+!wp-content/languages/
+!wp-content/themes/storefront/
+!wp-content/themes/storefront-child/
+!wp-content/themes/shapely/
+!wp-content/themes/shapely-child/
+!wp-content/themes/wp-bootstrap-starter/
+!wp-content/themes/wp-bootstrap-starter-child/
