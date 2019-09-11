@@ -3,6 +3,7 @@ Common .gitignore
 
 A collection of common .gitignore for: 
 
+  - Android: https://github.com/cinghie/common-gitignore/blob/master/Android.gitignore  
   - Common: https://github.com/cinghie/common-gitignore/blob/master/Common.gitignore
   - Drupal: https://github.com/cinghie/common-gitignore/blob/master/Drupal.gitignore
   - Joomla: https://github.com/cinghie/common-gitignore/blob/master/Joomla.gitignore
