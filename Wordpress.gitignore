@@ -58,6 +58,7 @@ wp-content/themes/twentyfifteen/*
 wp-content/themes/twentyseventeen/*
 wp-content/themes/twentysixteen/*
 
+# WP Included
 !wp-content/ai1wm-backups/.htaccess
 !wp-content/ai1wm-backups/index.php
 !wp-content/ai1wm-backups/web.config
