@@ -13,6 +13,7 @@ Thumbs.db
 # WP Root files
 *.log
 *.wpress
+*.zip
 /index.php
 /wp-activate.php
 /wp-blog-header.php
