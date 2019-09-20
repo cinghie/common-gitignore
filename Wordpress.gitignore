@@ -38,6 +38,10 @@ error_log
 /sitemap.xml
 /sitemap.xml.gz
 
+# WP files
+wp-admin/
+wp-includes/
+
 # WP Content
 wp-content/ai1wm-backups/*
 wp-content/aiowps_backups/*
