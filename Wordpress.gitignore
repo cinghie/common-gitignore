@@ -14,6 +14,7 @@ Thumbs.db
 *.log
 *.wpress
 *.zip
+error_log
 /index.php
 /wp-activate.php
 /wp-blog-header.php
