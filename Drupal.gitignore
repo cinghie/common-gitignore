@@ -1,3 +1,6 @@
+# Git files
+.git
+
 # PhpStorm project files
 .idea
 
